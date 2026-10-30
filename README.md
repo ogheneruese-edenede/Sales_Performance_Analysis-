@@ -142,5 +142,5 @@ The dataset shows that the company generated approximately **₦1,518,872** in r
 This 2024-2025 sales analysis demonstrates solid top-line momentum, driven by an 18% YoY revenue expansion and strong repeat purchasing. However, heavy reliance on the South West region and late-year deceleration highlight structural vulnerabilities. By actively diversifying regional operations, optimizing lagging product categories, and refining pre-season inventory planning, the business is well-positioned for sustainable, long-term growth.
 
 ## Author
-**Edenede Ogheneruese-Data Analyst**
+**Edenede Ogheneruese- Data Analyst**
 
