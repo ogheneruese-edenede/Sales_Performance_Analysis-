@@ -61,7 +61,7 @@ This is a synthetic dataset containing 512 order records from January 3, 2024 to
 * **Final Validation:** Performed comprehensive validation checks to guarantee completeness, uniqueness, label consistency, and valid ranges.
   
   ### Processed Data
-![Processed Data](sales -analysis -processed-data.png)
+![Processed Data](sales-analysis-processed-data.png)
 
 
 
