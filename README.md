@@ -59,9 +59,10 @@ This is a synthetic dataset containing 512 order records from January 3, 2024 to
 * **Category Mapping Correction:** Investigated and corrected 11 products assigned to incorrect product categories by reassigning them via a standardized mapping table.
 * **Outlier Detection:** Checked for statistical outliers across numerical metrics using the Interquartile Range (IQR) method (none found).
 * **Final Validation:** Performed comprehensive validation checks to guarantee completeness, uniqueness, label consistency, and valid ranges.
-
-### Processed Data
+  
+  ### Processed Data
 ![Processed Data](sales-analysis-processed-data.png)
+
 
 
 ---
