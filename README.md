@@ -60,6 +60,10 @@ This is a synthetic dataset containing 512 order records from January 3, 2024 to
 * **Outlier Detection:** Checked for statistical outliers across numerical metrics using the Interquartile Range (IQR) method (none found).
 * **Final Validation:** Performed comprehensive validation checks to guarantee completeness, uniqueness, label consistency, and valid ranges.
 
+### Processed Data
+![Processed Data](sales-analysis-processed-data.png)
+
+
 ---
 
 ## SECTION 3: KEY METRICS
@@ -76,7 +80,12 @@ The dataset shows that the company generated approximately **₦1,518,872** in r
 
 ---
 
-## SECTION 4: REVENUE PERFORMANCE BREAKDOWN
+## SECTION 4: Sales PERFORMANCE BREAKDOWN
+
+
+### Sales Performance Dashboard
+![Sales Analysis Dashboard](sales-analysis-dashboard.png)
+
 
 ### Performance by Region
 * **South West:** The primary revenue driver, generating **₦556,562.46** (36.64% market share across 175 orders).
