@@ -117,9 +117,6 @@ The dataset shows that the company generated approximately **₦1,518,872** in r
 4. **Review the Gaming and Accessories range:** Check pricing and demand for weak products. Bundle Accessories with Electronics and Gaming purchases to lift sales of both.
 5. **Plan for Q4:** Investigate the October and December declines by comparing orders, order value, and product mix with 2
 
- 5. Plan for Q4: Investigate the October and December declines by comparing orders, order value, and product mix with 2024.
-6. Grow order value: AOV rose only 5%, use bundles and upsells to increase it alongside order volume.
-
 ## Limitations
 
 - **Simulated Channel Field:** Channel results are excluded because the sales channel is simulated.
@@ -131,9 +128,5 @@ The dataset shows that the company generated approximately **₦1,518,872** in r
 This 2024-2025 sales analysis demonstrates solid top-line momentum, driven by an 18% YoY revenue expansion and strong repeat purchasing. However, heavy reliance on the South West region and late-year deceleration highlight structural vulnerabilities. By actively diversifying regional operations, optimizing lagging product categories, and refining pre-season inventory planning, the business is well-positioned for sustainable, long-term growth.
 
 ## Author
-
 **Edenede Ogheneruese**
 
-## 📸 Dashboard
-
-![Sales Performance Dashboard](sales_dashboard.png)
