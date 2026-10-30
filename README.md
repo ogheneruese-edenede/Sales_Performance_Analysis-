@@ -39,6 +39,10 @@ This is a synthetic dataset containing 512 order records from January 3, 2024 to
 * **Revenue:** Total monetary value generated from the order ($\text{Price} \times \text{Quantity}$).
 * **Sales Channel:** Point of purchase or avenue where the transaction occurred (e.g., Online, Retail Store).
 
+   ### Raw Dataset
+![Raw Dataset](sales-analysis-raw-dataset.png)
+
+
 ### Data Cleaning and Transformation Steps:
 * **Duplicate Removal:** Removed 12 exact duplicate records, reducing the dataset from 512 to 500 rows.
 * **Text Standardization:** Fixed category text inconsistencies, case formatting, and extra spacing using `TRIM`, `CLEAN`, and `PROPER` functions.
