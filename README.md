@@ -116,20 +116,24 @@ The dataset shows that the company generated approximately **₦1,518,872** in r
 3. **Prioritize Home Appliances and investigate Office:** Office revenue fell 22.9% in 2025 (₦163K to ₦126K); find out why before adding stock.
 4. **Review the Gaming and Accessories range:** Check pricing and demand for weak products. Bundle Accessories with Electronics and Gaming purchases to lift sales of both.
 5. **Plan for Q4:** Investigate the October and December declines by comparing orders, order value, and product mix with 2
-6. \## Limitations\
-\
-\- \*\*Simulated Channel Field:\*\* Channel results are excluded because the sales channel is simulated.\
-\- \*\*Sample Size Sensitivity:\*\* The dataset reflects an average of \~21 orders per month; short-term monthly fluctuations should be interpreted as directional indicators rather than macro trends.\
-\- \*\*Cost & Margin Visibility:\*\* Without Cost of Goods Sold (COGS) and operational expense data, net profitability and true SKU contribution margins cannot be calculated.\
-\
-\## Conclusion\
-\
-This 2024-2025 sales analysis demonstrates solid top-line momentum, driven by an 18% YoY revenue expansion and strong repeat purchasing. However, heavy reliance on the South West region and late-year deceleration highlight structural vulnerabilities. By actively diversifying regional operations, optimizing lagging product categories, and refining pre-season inventory planning, the business is well-positioned for sustainable, long-term growth.\
-\
-\## Author\
-\
-\*\*Edenede Ogheneruese\*\*\
-\
-\## 📸 Dashboard\
-\
-![Sales Performance Dashboard]\(sales_dashboard.png)
+
+ 5. Plan for Q4: Investigate the October and December declines by comparing orders, order value, and product mix with 2024.
+6. Grow order value: AOV rose only 5%, use bundles and upsells to increase it alongside order volume.
+
+## Limitations
+
+- **Simulated Channel Field:** Channel results are excluded because the sales channel is simulated.
+- **Sample Size Sensitivity:** The dataset reflects an average of ~21 orders per month; short-term monthly fluctuations should be interpreted as directional indicators rather than macro trends.
+- **Cost & Margin Visibility:** Without Cost of Goods Sold (COGS) and operational expense data, net profitability and true SKU contribution margins cannot be calculated.
+
+## Conclusion
+
+This 2024-2025 sales analysis demonstrates solid top-line momentum, driven by an 18% YoY revenue expansion and strong repeat purchasing. However, heavy reliance on the South West region and late-year deceleration highlight structural vulnerabilities. By actively diversifying regional operations, optimizing lagging product categories, and refining pre-season inventory planning, the business is well-positioned for sustainable, long-term growth.
+
+## Author
+
+**Edenede Ogheneruese**
+
+## 📸 Dashboard
+
+![Sales Performance Dashboard](sales_dashboard.png)
