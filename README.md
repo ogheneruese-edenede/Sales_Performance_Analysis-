@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis Report (2024–2025)
+# 📊 Sales Analysis Report (2024–2025)
 
 ## SECTION 1: INTRODUCTION
 
