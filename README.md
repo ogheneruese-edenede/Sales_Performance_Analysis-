@@ -81,7 +81,7 @@ The dataset shows that the company generated approximately **₦1,518,872** in r
 
 ---
 
-## SECTION 4: Sales PERFORMANCE BREAKDOWN
+## SECTION 4: SALES PERFORMANCE BREAKDOWN
 
 
 ### Sales Performance Dashboard
